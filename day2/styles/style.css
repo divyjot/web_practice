@@ -44,7 +44,7 @@ img{
 body{
     background-image: url("../images/background4.png");
     background-repeat: no-repeat;
-    background-size: 100% 600px;
+    
 }
 .verticalLine {
   border-left: thin solid grey;
