@@ -8,6 +8,7 @@ var arr=['rock','paper','scissors'];
   console.log('computer '+choice1); 
   choice2=prompt("Choose")
   console.log(choice2)
+  match(choice2,choice2
 }
 
 function match(choice1,choice2)
@@ -31,4 +32,3 @@ function compare(choice1,choice2)
     console.log('YOU WIN')
 }
 input(choice1,choice2)
-match(choice1,choice2)
